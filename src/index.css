@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+*{
+  background-color: #E6E9EB;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+a{
+  color: #3572d6;
+}
